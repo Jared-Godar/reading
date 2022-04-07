@@ -61,13 +61,14 @@
 - "Analytical skills are, simply put, problem-solving skills. They are characteristics and abilities that allow you to approach problems in a logical, rational manner in an effort to sort out the best solution."
 - Here - ability to translate business problems into *prescriptive solutions*. Business *problems* equated with business *decisions*. Creating value through analytical decision-making. AI will address uncertainty.
 
-**Further REading** 
--*Prediction Machines: The Simple Economics of Artificial Intelligence* by Ajay Agrawal, Joshua Gans, and Avi Goldfarb
+### Further Reading
+
+- *Prediction Machines: The Simple Economics of Artificial Intelligence* by Ajay Agrawal, Joshua Gans, and Avi Goldfarb
 - *Machine Platform Crowd: Harnessing Our Digital Future* by Andrew McAfee and Erik Brynjolfsson
-- *Big Data at Work: Dispelling the Myths, Uncovering the Opportunities* by Tom Davenpor
+- *Big Data at Work: Dispelling the Myths, Uncovering the Opportunities* by Tom Davenport
 - *Superintelligence. Paths, Dangers, Strategies* - Nick Bostrom
 
-LEx Fridman's 8Artificial Intelligence* Podcast
+Lex Fridman's Artificial Intelligence* Podcast
 
 ---
 
@@ -79,3 +80,21 @@ LEx Fridman's 8Artificial Intelligence* Podcast
   - consequences
   - business results
 
+### Power of Predictive Analysis
+
+- Cancer Detection.
+- X-ray, CT, etc: description of current status
+- AI remarkable prowess of predicting lung cancer from CT scans
+- Doctors then recommend the right course of action. AI leverages prediction, but humans prescribe
+
+- Churn
+- Descriptive patterns - acceleration, seasonal patterms, positive correlation between churn rate and household income
+- Correlation != causation
+  - Root cause analysis
+- Predicting Churn: Aggregate rates? Or specific customers at risk - change retention strategies.
+- Prescriptive: reccomend course of action to reduce the rate of churn
+- Cost-benefit analysis maximizing customer lifetime value
+  - Current value of a customer short-sighted, need long view
+  - Customers as assets - stream of profits. Customer may change companies at any time - so need uncertainty in time window
+
+### Business Questions and KPIs
